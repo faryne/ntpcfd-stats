@@ -1,7 +1,8 @@
 ##新北市消防局報案API ##
 
 ### 查詢報案紀錄 ###
-- API Endpoint：http://ha2.tw/ntpcfd/api/json
+- API Endpoint：http://ha2.tw/ntpcfd/api/[json|geojson]
+- 2015/10/12：新增 GeoJSON 格式資料
 - Request Type：GET
 - Response Type：JSON
 - 所需參數：
